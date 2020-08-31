@@ -1,6 +1,6 @@
-# holamundo
+# Recepción de Archivos
 
-> recepcion de datos
+> recepcion de archivos
 
 ## Build Setup
 
